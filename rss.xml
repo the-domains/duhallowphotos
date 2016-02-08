@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DuhallowPhotos]]></title>
         <description><![CDATA[DuhallowPhotos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/duhallowphotos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 16:50:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 16:50:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/duhallowphotos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photo taken in North Cork Co-Op Creameries]]></title>
+            <description><![CDATA[<article><h1>Photo taken in North Cork Co-Op Creameries</h1><p>Old Photos of Duhallow 1950'S</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4f9e07863980d5369e98691227e2b1fe99e5eaf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/duhallowphotos/photo-taken-in-north-cork-co-op-creameries/index.html</link>
+            <guid isPermaLink="false">a52d4d49-c400-462d-905f-ffefa7bd2a49</guid>
+            <pubDate>Mon, 08 Feb 2016 16:50:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[North Cork Employee's]]></title>
             <description><![CDATA[<article><h1>North Cork Employee's</h1><p>North Cork Co-Op</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0192a5959f226dccef1155f3cbccafeb630fd7a1.jpg"></article>]]></description>
-            <link>undefinednorth-cork-employees/index.html</link>
+            <link>https://thegrid.ai/duhallowphotos/north-cork-employees/index.html</link>
             <guid isPermaLink="false">a71ddad3-9a6f-42be-b069-c5f8bff6306c</guid>
             <pubDate>Mon, 08 Feb 2016 16:50:09 GMT</pubDate>
         </item>
