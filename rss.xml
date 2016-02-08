@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DuhallowPhotos]]></title>
+        <description><![CDATA[DuhallowPhotos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 16:50:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[North Cork Employee's]]></title>
+            <description><![CDATA[<article><h1>North Cork Employee's</h1><p>North Cork Co-Op</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0192a5959f226dccef1155f3cbccafeb630fd7a1.jpg"></article>]]></description>
+            <link>undefinednorth-cork-employees/index.html</link>
+            <guid isPermaLink="false">a71ddad3-9a6f-42be-b069-c5f8bff6306c</guid>
+            <pubDate>Mon, 08 Feb 2016 16:50:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
