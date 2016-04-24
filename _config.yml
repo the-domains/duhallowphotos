@@ -1,28 +1,40 @@
-name: DuhallowPhotos
 favicon: null
-layout_spectrum: 0.24710801779292524
-typography_spectrum: 0.28329121181741357
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: DuhallowPhotos
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5828408186789602
+  brandStrength: 0.4337164424359798
+  rhythmicContrast: 0.3373521531466395
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.43371644243597984
   lightness: 0.368175002746284
-  saturation: 0.5828408186789602
-  rhythmicContrast: 0.33735215314663947
-purpose: []
+typography_spectrum: 0.2832912118174136
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.7638298
+analytics:
+  twitter: null
+  google: null
+  facebook: null
